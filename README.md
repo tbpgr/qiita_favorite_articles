@@ -1,1 +1,1 @@
-[qiita-favorite-notification-bot](https://github.com/tbpgr/qiita-favorite-notification-bot) がツイート時に参照するためのリポジトリです
+[random_tweet_from_github_bot](https://github.com/tbpgr/random_tweet_from_github_bot) がツイート時に参照するためのリポジトリです
